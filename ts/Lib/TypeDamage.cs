@@ -13,4 +13,5 @@ namespace ts.Types
         Melle, // 2
         Ranged //   3
     } 
+   
 }
