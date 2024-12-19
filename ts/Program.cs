@@ -20,7 +20,7 @@ namespace ts
              *   ChatGPT(Chciałem zrobić bardziej skomplikowaną metodą z Listą ale mnie od tego odwiódł) i dzięki temu poznałem klase Queue
              *   oczywiście zaponzałem się później z dokumentacja i tutorialami i zaimplementowałem własną wersje kodu :>
              * - Armia która posiada osobisty system walk, obrażeń, wojny jak i system losowych manewrów wykonywanych przez oddziały danej armii.
-             * - Również została zaimplementowana Wojna 
+             * - Również została zaimplementowana Wojna Ostateczna
              */
             Jednostka test = new Jednostka
             {
@@ -40,7 +40,7 @@ namespace ts
             };
             Jednostka test3 = new Jednostka
             {
-                Name = "Ktos tam",
+                Name = "Nieznajomy",
                 Type_dmg = ts.Types.TypeDamage.Melle,
                 Damage_min = 7,
                 Damage_max = 12,
@@ -48,7 +48,7 @@ namespace ts
             };
             Jednostka test4 = new Jednostka
             {
-                Name = "Co tam",
+                Name = "Strzelec Wyborowy",
                 Type_dmg = ts.Types.TypeDamage.Ranged,
                 Damage_min = 7,
                 Damage_max = 12,
